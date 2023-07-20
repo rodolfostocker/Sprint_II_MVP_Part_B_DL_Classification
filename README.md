@@ -34,6 +34,6 @@ shipsnet.json (2).zip : O arquivo shipsnet.json (2).zip poderia ser usado no in�
 
 x_test.npy : O arquivo x_test_loaded poderá ser usado na frente para avaliar o modelo carregado.
 
-trained_model_MVP_Sprint_II_Part_B_RS_detecção_de_navios2023-07-19T1119.h5 : O arquivo trained_model_MVP_Sprint_II_Part_B_RS_ship_detection2023-07-19T1119.h5 será carregado e usado no final para avaliar o modelo treinado.
+trained_model_MVP_Sprint_II_Part_B_RS_detecção_de_navios2023-07-19T1119.h5 (Modelo) : O arquivo "Modelo" será carregado e usado no final para avaliar o modelo treinado.
 
-Notebooks sem automações: MVP_Sprint_II_Part_B_RS_deteção_navios.ipynb.
+Notebooks com automações para rodar no Colab: MVP_Sprint_II_Part_B_RS_deteção_navios.ipynb.
