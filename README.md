@@ -15,7 +15,7 @@ ML e DL são duas técnicas de modelagem de dados usadas para previsão e tomada
 Nesse caso específico, a interpretabilidade é priorizada em relação à complexidade e ao desempenho computacionalmente demorado da implementação do modelo a ser usado. 
 
 Em resumo, o ML é uma técnica alinhada a modelos em que a interpretabilidade é importante e não possui um alto custo computacional de processamento dos dados , 
-dependendo do vulume e complexidade dos dados. Já o DL se concentra no melhor desempenho dos resultados para obter previsões mais precisas. 
+dependendo do volume e complexidade dos dados. Já o DL se concentra no melhor desempenho dos resultados para obter previsões mais precisas. 
 
 Ambas as técnicas são importantes e têm potencial para garantir uma análise de dados confiável e precisa.
 As duas premissas centrais deste Notebook.
