@@ -39,4 +39,3 @@ x_test.npy : O arquivo x_test_loaded poderá ser usado na frente para avaliar o 
 trained_model_MVP_Sprint_II_Part_B_RS_detecção_de_navios2023-07-19T1119.h5 (Modelo) : O arquivo "Modelo" será carregado e usado no final para avaliar o modelo treinado.
 
 Notebook com automações para rodar no Colab: 
-https://github.com/rodolfostocker/Sprint_II_MVP_Part_B_DL_Classification/blob/main/MVP_Sprint_II_Part_B_RS_dete%C3%A7%C3%A3o_navios.ipynb
